@@ -8,8 +8,8 @@ Full project details here : https://hackaday.io/project/204697-hacking-dji-motio
 ## 🚀 Key Features
 
 ### 1. Relative Frame Rotation (Trigonometric Logic)
-This plugin uses the controller's Heading to rotate the input coordinates. 
-* **Tilting forward/Twisting wrist** always results in **Pitch**, no matter which direction you are facing. Same for **Roll** angle
+This plugin uses the controller's Heading to rotate the input coordinates initially expressed in a fixed earth refrence frame. 
+* **Tilting forward/Twisting wrist** always results in **Pitch/Roll**, no matter which direction you are facing. 
 * Uses real-time calculations to translate your hand's tilt/twist into the drone's relative frame.
 
 
