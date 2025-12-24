@@ -17,8 +17,8 @@ This plugin uses the controller's Heading to rotate the input coordinates initia
 ### 2. Intelligent Yaw Tracking & Latching
 * **Dynamic Yaw:** Calculates the difference between your current heading and a reference point.
 * **Heading Lock (Controlled by gimbal slider Ry axis):**
-    * **Engage (Ry top):** Starts tracking your rotation to command the Yaw.
-    * **Lock (Ry down):** Freezes the current heading reference, allowing you to move your arm freely without yaw.
+    * **Enable (Ry top):** Starts tracking your rotation to command the Yaw.
+    * **Disable (Ry down):** Freezes the current heading reference, allowing you to move your arm freely without yaw.
 * **South Pole Correction:** Prevents sudden 360-degree snaps when crossing the South heading (wraparound logic).
 
 ### 3. Signal Optimization
