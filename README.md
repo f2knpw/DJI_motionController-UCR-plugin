@@ -5,7 +5,7 @@ This custom C# plugin for **Universal Control Remapper (UCR)** transforms the un
 
 Full project details here : https://hackaday.io/project/204697-hacking-dji-motion-controller-as-regular-joystick
 
-with an old TH9x PPM radio 
+show it here
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=rhImh7lbiWs
 " target="_blank"><img src="http://img.youtube.com/vi/rhImh7lbiWs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="1180" height="664" border="10" /></a>
