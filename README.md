@@ -40,12 +40,4 @@ This plugin uses the controller's Heading to rotate the input coordinates.
 
 ---
 
-## 🎮 Axis Mapping Table
 
-| Plugin Input | DJI Hardware | Plugin Output |
-| :--- | :--- | :--- |
-| Axis X | Tilt X | **Yaw** (0) |
-| Axis Y | Tilt Y | **Pitch** (1) |
-| Axis Z | Throttle | **Roll** (2) |
-| Axis Rx | Heading | **Throttle** (3) |
-| Axis Ry | Gimbal/Lock | **Gimbal** (4) |
