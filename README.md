@@ -33,10 +33,10 @@ This plugin uses the controller's Heading to rotate the input coordinates initia
 1. **Deploy:** Copy `UCR.Plugins.dll` into your UCR installation folder (inside plugins folder).
 2. **Add Plugin:** In UCR, add the **"DJI MotionController"** plugin.
 3. **Map Inputs:**
-    * **Axis X / Y:** Wrist Tilt/twist
-    * **Axis Z:** Throttle Trigger
-    * **Axis Rx:** Heading/Compass (Required for Trig)
-    * **Axis Ry:** Tracking Toggle / Gimbal
+    * **Axis X / Y:** Wrist Tilt/twist (Pitch, Roll)
+    * **Axis Z:** Throttle
+    * **Axis Rx:** Heading/Compass (converted to Yaw)
+    * **Axis Ry:** Tracking Toggle (Gimbal slider)
 
 
 
