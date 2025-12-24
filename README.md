@@ -3,7 +3,7 @@
 
 This custom C# plugin for **Universal Control Remapper (UCR)** transforms the unique sensor data of the **DJI Motion Controller** into a standard 5-axis virtual joystick.
 
-Full project detailhere : https://hackaday.io/project/204697-hacking-dji-motion-controller-as-regular-joystick
+Full project details here : https://hackaday.io/project/204697-hacking-dji-motion-controller-as-regular-joystick
 
 ## 🚀 Key Features
 
